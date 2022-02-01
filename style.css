@@ -225,7 +225,7 @@ body{
     }
     .aside2img{
         width: 800px;
-        height: 190px;
+        height: 191px;
     }
     .textoaside2{
      height: 100px;
@@ -239,7 +239,7 @@ body{
         flex-direction: row;
         align-items: center;
         border-bottom: none;
-        font-size: 8px;
+        font-size: 6px;
         grid-area: footer;
     }
 }
